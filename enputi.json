@@ -1,0 +1,20 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/darabuchi/enputi/releases/download/v0.0.6/enputi_v0.0.6_windows_amd64.zip",
+            "bin": [
+                "enputi.exe",
+                "mini-enputi.exe",
+                "checkwall.exe",
+                "proxycheck.exe",
+                "tohru.exe",
+                "dnsquerygi.exe"
+            ],
+            "hash": "469e5a13a893ee21a7f4a55ec99308a93cb6dd327edeac7d24fdee88d4aa9022"
+        }
+    },
+    "homepage": "https://github.com/darabuchi/enputi",
+    "license": "Mozilla",
+    "description": "A self-developing tool"
+}
